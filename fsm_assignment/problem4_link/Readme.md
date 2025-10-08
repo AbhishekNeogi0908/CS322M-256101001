@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 
@@ -49,3 +50,4 @@ Master repeats for 4 bytes, then asserts `done`.
     ├── master_fsm.vcd
     ├── slave_fsm.vcd
     └── Link_Top.png
+
